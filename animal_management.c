@@ -6,10 +6,6 @@
 #define MAX_LEN 25
 #define NUM_TRAITS 5
 
-/*
-    COP 3502C PA5
-    This program is written by: Neil Zambrano
-*/
 
 typedef struct Cat_s {
     char *name;                 // dynamically allocated cat name
